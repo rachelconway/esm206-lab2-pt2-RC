@@ -1,0 +1,15 @@
+---
+title: "lab4 interactive graph example"
+author: "Rachel Conway"
+date: "10/22/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here, we'll practice creating some interactive graphs and tables using built-in datasets in our packages
+
+- Interactive plots: {plotly}
+- Interactive tables: {DT}
