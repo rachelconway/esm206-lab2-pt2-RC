@@ -1,1 +1,8 @@
-# esm206-lab2-pt2-RC
+My awesome ReadMe!
+
+-some
+-bullet
+-points
+
+And other **useful information**!
+*Yay*
